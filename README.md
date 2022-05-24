@@ -38,6 +38,7 @@
 
 * `Access-Control-Allow-Origin` = `*` - any client
 * `Access-Control-Allow-Methods` = `GET, POST, PUT, PATCH, DELETE`  - can be whatever you use
+* `Access-Control-Allow-Headers` = `Content-Type, Authorization`
 
 
 ## Client side headers
